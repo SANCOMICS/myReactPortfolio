@@ -22,7 +22,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={pdf}
+            href={"https://firebasestorage.googleapis.com/v0/b/project-train-6c2b2.appspot.com/o/mycv.pdf?alt=media&token=267a8efb-de0c-43e2-9bf3-50279f542d8c"}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
@@ -40,7 +40,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={pdf}
+            href={"https://firebasestorage.googleapis.com/v0/b/project-train-6c2b2.appspot.com/o/mycv.pdf?alt=media&token=267a8efb-de0c-43e2-9bf3-50279f542d8c"}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
